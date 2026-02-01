@@ -32,6 +32,14 @@ CSV / Google Sheets
 - CSV / Google Sheets
 - GitHub
 
+## How This Runs
+This project runs fully online using GitHub Actions.
+No local setup is required.
+
+The workflow executes on a scheduled basis, analyzes revenue data,
+and sends automated email insights to stakeholders.
+
+
 ## Example Insight
 🚨 Revenue Alert  
 Revenue pacing -6.3% vs target  
