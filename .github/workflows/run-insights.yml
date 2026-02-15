@@ -2,7 +2,7 @@ name: Revenue Insight Email
 
 on:
   schedule:
-    - cron: "0 9 * * *"   # runs daily at 9am UTC
+    #- cron: "0 9 * * *"   # runs daily at 9am UTC
   workflow_dispatch:     # allows manual run
 
 jobs:
